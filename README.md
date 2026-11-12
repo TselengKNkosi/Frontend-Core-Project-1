@@ -7,10 +7,24 @@ ModernTech HR Solutions is a comprehensive, **client-side only** HR management w
 ## Application Screenshots
 
 ### Login Page  
+<img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/18a643d2-6d22-4fd6-9515-2a848fc0259a" />
 
 ### Dashboard
+<img width="1366" height="768" alt="dashboard1" src="https://github.com/user-attachments/assets/2159f656-f388-4117-bee1-9b97d1dc8573" />
+<img width="1366" height="768" alt="dashboard2" src="https://github.com/user-attachments/assets/c6f5ecd6-255d-418b-8d15-397c597a9009" />
 
 ### Employee Data
+<img width="1366" height="768" alt="employee" src="https://github.com/user-attachments/assets/839cd69a-63c2-415e-9aa0-8e4aec037440" />
+
+### Payroll Processing Tab
+<img width="1366" height="768" alt="payroll" src="https://github.com/user-attachments/assets/6f8ab860-be41-4ec3-ba11-efcd7ed21a3d" />
+
+### Time Off Tab
+<img width="1366" height="768" alt="timeoff" src="https://github.com/user-attachments/assets/11f6d6d2-2b72-4bc2-92d1-230f32cde5c9" />
+
+### Attendance Tab
+<img width="1366" height="768" alt="attendance" src="https://github.com/user-attachments/assets/bfbcf1c6-8aaa-4b47-80e2-9db045443419" />
+
 
 ## Core Project Features
 
